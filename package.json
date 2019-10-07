@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/canjs/bit-hello-world.git"
+    "url": "git+https://github.com/bitovi-components/bit-hello-world.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/canjs/bit-hello-world/issues"
+    "url": "https://github.com/bitovi-components/bit-hello-world/issues"
   },
-  "homepage": "https://github.com/canjs/bit-hello-world#readme"
+  "homepage": "https://github.com/bitovi-components/bit-hello-world#readme"
 }
